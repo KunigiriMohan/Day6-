@@ -1,1 +1,1 @@
-# Day6-
+# Day6- Logical Programms
